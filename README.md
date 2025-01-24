@@ -1,4 +1,4 @@
-<a href="https://climatejustice.rocks/@norb" rel="me">Also on Mastodon!</a>
+<a href="https://phpc.social/@norb" rel="me">Also on Mastodon!</a>
 
 <!--
 **n3w/n3w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
